@@ -1,0 +1,119 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 950px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 533px;
+  box-shadow: 0 0 40px 4px rgba(219,84,90,1);
+  margin: 28px 28px 0 542px;
+}
+
+.u-section-1 .u-input-1 {
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: underline !important;
+}
+
+.u-section-1 .u-input-2 {
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: underline !important;
+}
+
+.u-section-1 .u-input-3 {
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: underline !important;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 2px 0 8px rgba(128,128,128,1);
+  animation-duration: 1000ms;
+  font-size: 1.625rem;
+  margin: -216px 598px 0 27px;
+}
+
+.u-section-1 .u-map-1 {
+  height: 362px;
+  margin-bottom: 0;
+  margin-top: 343px;
+  animation-duration: 1000ms;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 387px;
+    width: 570px;
+    margin-top: 48px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 480px;
+    margin-top: 48px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-map-1 {
+    margin-bottom: 2px;
+    margin-top: 87px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    margin-top: 51px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 320px;
+    margin-top: 45px;
+  }
+
+  .u-section-1 .u-map-1 {
+    margin-bottom: 16px;
+    margin-top: 45px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 48px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    margin-top: 20px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-map-1 {
+    margin-top: 46px;
+  }
+}
