@@ -8,6 +8,7 @@
   clear: both;
   display: block;
   content: "";
+  box-shadow: ;
   height: 0; }
 
 .fr-hide-by-clipping {
@@ -34641,7 +34642,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-1 {
   font-weight: 700;
   font-style: italic;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.95);
+  text-shadow: 0 0 20px rgba(0,0,0,0.95);
   margin: -36px auto 41px 0;
 }
 
