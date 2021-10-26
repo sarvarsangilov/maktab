@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: url("images/1.svg");
+  background-image: url("images/icon.jpg");
   background-position: 50% 50%;
 }
 
@@ -36,6 +36,7 @@
   font-weight: 700;
   animation-duration: 1000ms;
   margin: 19px auto 60px;
+  text-shadow: 2px 0 2px rgba(128,128,128,1);
 }
 
 @media (max-width: 1199px) {
