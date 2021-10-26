@@ -11,6 +11,7 @@
   width: 263px;
   animation-duration: 1500ms;
   margin: 0 auto;
+  text-shadow: 2px 0 2px rgba(128,128,128,1);
 }
 
 .u-section-1 .u-text-2 {
